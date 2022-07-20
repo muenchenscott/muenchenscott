@@ -2,7 +2,9 @@
 - 👀 I’m interested in software development, IT administration and product/project engineering.
 - 🌱 I’m always learning ... Python automation, Physics, Cooking, Foreign Languages
 - 💞️ I’m looking to collaborate with motivated sentient people who respect one another, believe in science and practice empathy.
-- 📫 How to reach me ... @muenchenscott 48°08'05.0"N 11°36'19.0"E
+- 📫 How to reach me ... 
+      - @muenchenscott
+      - 48°08'05.0"N 11°36'19.0"E
 
 <!---
 muenchenscott/muenchenscott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

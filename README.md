@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @muenchenscott (you can call me Scott)
-- 👀 I’m interested in software development, IT administration and product/project engineering.
+- 👀 I’m interested in software development, IT administration, product engineering and project management
 - 🌱 I’m always learning ... Python automation, Physics, Cooking, Foreign Languages
 - 💞️ I’m looking to collaborate with motivated sentient people who respect one another, believe in science and practice empathy.
 - 📫 How to reach me ... 

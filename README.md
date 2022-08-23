@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m @muenchenscott (you can call me Scott)
+- 👋 Grüß Gott! Hej Hej! Aloha! hi...
 - 👀 I’m interested in software development, IT administration, product engineering and project management
-- 🌱 I’m always learning ... Python automation, Physics, Cooking, Foreign Languages
-- 💞️ I look forward to collaborating with motivated sentient beings who respect one another, believe in science and practice empathy.
+- 🌱 I’m always learning ... Python automation, Physics, Cooking, Foreign Languages, life...
+- 💞️ All motivated, sentient beings who respect one another and believe in science are welcome here
 - 📫 How to reach me ... 
       - @muenchenscott
       - 48°08'05.0"N 11°36'19.0"E
